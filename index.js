@@ -18,4 +18,4 @@ require("./back-end/controls/userControlsAuth")(app);
 
 app.listen(3003, () => {
   console.log("server up port:", 3003);
-});
+})
